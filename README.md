@@ -33,4 +33,23 @@ This makes the process transparent, efficient, and convenient for both teachers 
 - Secure login system for both teachers and students.  
 - Easy management of courses and student records.  
 - Students can instantly check their results online.  
-- User-friendly and visually appealing interface.  
+- User-friendly and visually appealing interface.
+
+## Screenshots
+**Login Page:**  
+![Login Page](Screenshots/login_page.png)
+
+**Dashboard:**  
+![Admin Dashboard](Screenshots/dashboard.png)
+
+**Manage Student Details:**  
+![Student Dashboard](Screenshots/manage_student_details.png)
+
+**Manage Course Page:**  
+![Course Page](Screenshots/manage_course_page.png)
+
+**Manage Result Page:**  
+![Result Page](Screenshots/manage_result_page.png)
+
+**View Student Result Page:**  
+![Result Page](Screenshots/view_student_result_page.png)
